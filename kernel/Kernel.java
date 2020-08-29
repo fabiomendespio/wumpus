@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class Kernel {
 
-	 public static final int EAST = 1;
+	    public static final int EAST = 1;
 	    public static final int SOUTH = 2;
 	    public static final int WEST = 3;
 	    public static final int NORTH = 0;
